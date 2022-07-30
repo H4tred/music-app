@@ -1,4 +1,4 @@
-# music-app
+# music-app with vuejs
 
 ## Project setup
 ```
